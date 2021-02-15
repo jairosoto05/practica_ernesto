@@ -1,0 +1,5 @@
+/home/jairosoto05/Projects/Practica_Ernesto/ejercicio6/bin/Debug/ejercicio6.exe
+/home/jairosoto05/Projects/Practica_Ernesto/ejercicio6/bin/Debug/ejercicio6.pdb
+/home/jairosoto05/Projects/Practica_Ernesto/ejercicio6/obj/x86/Debug/ejercicio6.csproj.CoreCompileInputs.cache
+/home/jairosoto05/Projects/Practica_Ernesto/ejercicio6/obj/x86/Debug/ejercicio6.exe
+/home/jairosoto05/Projects/Practica_Ernesto/ejercicio6/obj/x86/Debug/ejercicio6.pdb
